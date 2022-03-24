@@ -62,3 +62,7 @@ nav a:hover {
 div {
     text-align: center;
   }
+
+h1, h2, h3 {
+ font-family: 'Patua One', sans-serif;
+}
